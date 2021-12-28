@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello git2!");
         System.out.println("hello git3!");
         System.out.println("这是hot-fix分支");
+        System.out.println("push");
     }
 }
